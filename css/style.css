@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+div.card{
+    border: none;
+}
+div.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+div.col{
+    border: 0.1px solid #E0E0E0;
+    padding: 10px;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #ff3333 !important;
+    margin-top: 10px;
+    outline: none;
+    border: none !important;
+}
+div > h2.title{
+    font-weight: bolder;
+}
+div > h2{
+    font-size: 25px;
+    font-weight: 400;
+}
+input.form-control{
+    margin-top: 10px;
+}
+form > input.form-control:focus, div > input.form-control:focus{
+    box-shadow: inset 0 -1px 0 #ddd;
+    border: 1px solid #ff3333;
+}
+h1.heading{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+span.red_cross{
+    color: #ff3333;
+    position: relative;
+    bottom: 2px;
+}
