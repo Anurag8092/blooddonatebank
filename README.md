@@ -10,8 +10,8 @@ Installation Steps
 Database Configuration
 1.Open phpmyadmin
 2.Create Database named blooddonatedb.
-3.Import database blooddonatedb.sql from the folder.
+3.Import database blooddonatedb.sql from the Database folder inside the extracted folder.
 4. Open Your browser put inside “http://localhost/blood_donate_bank/dashboard.php”.
 
 Login/Registration
-You can then go on and create your receiver/hospital account and login with respective account.
+You can then go on and create your receiver/hospital account and login with the respective account.
